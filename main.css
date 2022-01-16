@@ -1,0 +1,7 @@
+.todo-div{
+    display: flex;
+    justify-content: space-around;
+}
+.deleted{
+    text-decoration: line-through;
+}
